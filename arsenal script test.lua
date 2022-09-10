@@ -287,13 +287,9 @@ game.Players.PlayerAdded:Connect(function(v)
     coroutine.wrap(boxesp)()
 
 end)
-
-else
-
-BoxOutline.Visible = false
-
-Box.Visible = false
-
 end
-
 end)
+
+
+
+
