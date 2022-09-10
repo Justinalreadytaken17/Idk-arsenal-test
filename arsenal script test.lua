@@ -288,11 +288,8 @@ game.Players.PlayerAdded:Connect(function(v)
 
 end)
 
-else
 
-BoxOutline.Visible = false
 
-Box.Visible = false
 
 end
 
